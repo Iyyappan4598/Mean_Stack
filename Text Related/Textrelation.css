@@ -1,0 +1,64 @@
+.main1{
+    color: red;
+}
+.direction1{
+    direction: ltr;
+}
+.direction2{
+    direction: rtl;
+}
+.char{    
+    letter-spacing: 15px;
+}
+.word{
+    word-spacing: 5px;
+}
+.left{
+    text-align: left;
+}
+.center{
+    text-align: center;
+}
+.right{
+    text-align: right;
+}
+#indent{
+    text-indent: 45px;
+}
+.line{
+    text-decoration-line: underline;
+    color: red;
+}
+.overline{
+    text-decoration-line: overline;
+        color: red;
+}
+.strike{
+    text-decoration-line: line-through;
+        color: red;
+}
+a{
+    text-decoration: none;
+    color: red;    
+}
+.capital{
+    text-transform: capitalize;
+}
+.upper {
+    text-transform: uppercase;
+}
+.lower {
+    text-transform: lowercase;
+}
+.poem{
+    white-space: pre;
+}
+.normal{
+    white-space: normal;
+}
+.rap{
+    white-space: nowrap;
+}
+.shadow{
+    text-shadow: 5px 5px 5px green;
+}

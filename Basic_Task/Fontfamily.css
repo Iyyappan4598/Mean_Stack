@@ -1,0 +1,21 @@
+.font{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#italic{
+    font-style: italic;    
+}
+#oblique{
+    font-style: italic;    
+}
+.bold{
+    font-weight: bold;
+}
+.bolder{
+    font-weight: bolder;
+}
+.light{
+    font-weight: lighter;
+}
+.size{
+    font-size: larger;
+}

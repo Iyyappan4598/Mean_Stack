@@ -1,0 +1,28 @@
+body{
+    background-color: lightcyan;
+}
+.main-div1{
+    margin-top: 2%;
+    margin-left: 2%;
+  border: 5px solid black;
+  padding: 12px;
+  background: lightgreen;
+  background-clip: border-box;
+}
+.main-div2{
+    margin-top: 2%;
+    margin-left: 2%;
+    border: 8px dotted yellowgreen;
+    padding: 12px;
+    background: lightgreen;
+    background-clip: padding-box;
+}
+.main-div3{
+    margin-top: 2%;
+    margin-left: 2%;
+    border: 10px double black;
+    padding: 12px;
+    background: lightblue;
+    background-clip: content-box;
+}
+
